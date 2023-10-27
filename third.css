@@ -295,9 +295,18 @@ footer p:nth-child(2){
     transition: .3s;
 }
 
-.end{
-    position: absolute;
-    color: white;
-    bottom: 35px;
-    font-size: 15px;
+.design{
+    text-decoration: none;
+    color: #000000;
+    text-align: center;
+    color: aqua;
+    background-color: #000000;
+}
+
+.p1{
+    text-align: center;
+    background-color: #000000;
+}
+span{
+    color: aliceblue;
 }
