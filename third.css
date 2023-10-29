@@ -310,3 +310,20 @@ footer p:nth-child(2){
 .span1{
     color: aliceblue;
 }
+
+.button{
+    background-color: aqua;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 28px;
+    border-radius: 100px; 
+    transition: .4s;
+}
+
+.button:hover{
+    background-color: transparent;
+    border: 2px solid aqua;
+    cursor: pointer;
+}
