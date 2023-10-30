@@ -7,7 +7,7 @@
 .hero{
     height: 100vh;
     width: 100%;
-    background-image: url(home5.jpg);
+    background-image: url(logo.png);
     background-size: cover;
     background-position: center;
     color: aliceblue;
@@ -25,7 +25,7 @@ nav{
 
 
 .logo{
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 35px;
     letter-spacing: 2px;
     cursor: pointer;
@@ -42,7 +42,7 @@ nav ul li{
 }
 
 nav ul li a{
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     font-weight: bold;
     text-transform: capitalize;
@@ -61,21 +61,36 @@ nav ul li a:hover{
 }
 
 h1{
-    color: rgb(13, 238, 238);
+    color: rgb(0, 0, 0);
     margin: 20px 0px 20px;
     font-size: 70px;
 }
 
 h4{
-    color: aquamarine;
-    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-size: 19px;
     margin-bottom: 50px;
 }
 
 h5{
-    color: cyan;
+    color: rgb(0, 0, 0);
     letter-spacing: 2px;
     font-size: 20px;
+}
+
+h6{
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.p6{
+    color: #000000;
+    margin-top: 29px;
+    font-size: 25px;
+    letter-spacing: 6px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .about{
@@ -103,15 +118,15 @@ h5{
 }
 
 .about-text h2{
-    color: white;
+    color: rgb(175, 168, 168);
     font-size: 35px;
     text-transform: capitalize;
     margin-bottom: 25px;
 }
 
 .about-text p{
-    color: rgb(4, 209, 209);
-    letter-spacing: 2px;
+    color: rgb(255, 253, 253);
+    letter-spacing: 1px;
     font-size: 19px;
     margin-bottom: 20px;
     text-transform: capitalize;
