@@ -342,3 +342,7 @@ footer p:nth-child(2){
     border: 2px solid aqua;
     cursor: pointer;
 }
+
+.span2{
+    color: #b31010;
+}
